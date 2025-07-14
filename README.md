@@ -3,4 +3,4 @@ This is the product detail section of an e-commerce application built with [Lit]
 To set up the application:
 - Run `npm install`
 
-This is the [live website](https://github.com/efosu-duffour/product-detail-section-e-commerce/tree/main)
+This is the [live website](https://efosu-duffour.github.io/product-detail-section-e-commerce/)
